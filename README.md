@@ -2,12 +2,13 @@
 
 Welcome to my profile!  
 I'm just a normal dude who enjoys programming.  
-My current focus lies around game programming and the Unity game engine.
+My current focus lies around game programming and the Unity game engine but I'm also interested in web development.
 
 ## Games
 You can find the relased games I have been a part of over at my [itch.io](https://mrjackey.itch.io/).
 
 If you are interested in the development of these games, feel free to check out their repositories.
+- [Beer & Plunder](https://github.com/smeas/Beer-and-Plunder)
 - [Were.Wolf](https://github.com/MrJackey/Were.Wolf)
 - [Where Is My Stuff](https://github.com/smeas/Where-Is-My-Stuff)
 
